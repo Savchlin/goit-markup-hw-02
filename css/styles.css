@@ -37,6 +37,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -53,6 +54,7 @@ body {
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
+  font-style: normal;
 }
 
 .section-one {
@@ -95,6 +97,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .value-text {
@@ -110,8 +113,11 @@ body {
 
 .team-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .team-list {
@@ -123,6 +129,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .team-text {
@@ -150,6 +157,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .portfolio-text {
